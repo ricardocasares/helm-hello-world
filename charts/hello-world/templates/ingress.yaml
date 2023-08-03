@@ -10,7 +10,7 @@ metadata:
     "nginx.ingress.kubernetes.io/backend-protocol": "HTTP"
 spec:
   rules:
-    - host: hello.app.box
+    - host: cool.app.box
       http:
         paths:
           - path: /
